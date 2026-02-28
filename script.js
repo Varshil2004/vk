@@ -1,3 +1,4 @@
+// this is a javascript code of this website.
 function validateForm() {
     var username = document.getElementById('username').value;
     var password = document.getElementById('password').value;
