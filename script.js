@@ -1,4 +1,4 @@
-// this is a javascript code of this website.
+// this is a javascript code of this website.here many functions are used to validate the things of website.
 function validateForm() {
     var username = document.getElementById('username').value;
     var password = document.getElementById('password').value;
